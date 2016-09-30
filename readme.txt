@@ -1,3 +1,9 @@
+###
+erkserkserks.com's version of the "Twenty Fifteen" theme.
+
+See http://stackoverflow.com/a/24577293 on how to merge changes from upstream.
+
+###
 === Twenty Fifteen ===
 Contributors: the WordPress team
 Requires at least: WordPress 4.1
