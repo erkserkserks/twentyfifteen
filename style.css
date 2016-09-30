@@ -1298,7 +1298,7 @@ img.aligncenter {
 .site-header {
 	background-color: #fff;
 	border-bottom: 1px solid rgba(51, 51, 51, 0.1);
-	padding: 7.6923%;
+	padding: 4%;
 }
 
 .site-branding {
@@ -1625,10 +1625,10 @@ a.post-thumbnail:focus {
 }
 
 .entry-title {
-	font-size: 26px;
-	font-size: 2.6rem;
-	line-height: 1.1538;
-	margin-bottom: 0.9231em;
+	font-size: 20.5px;
+	font-size: 2.05rem;
+	line-height: 1.3333;
+	margin-bottom: 1.3333em;
 }
 
 .entry-content,
@@ -2119,8 +2119,8 @@ a.post-thumbnail:focus {
 .format-link .entry-title,
 .format-audio .entry-title,
 .format-chat .entry-title {
-	font-size: 18px;
-	font-size: 1.8rem;
+	font-size: 20.5px;
+	font-size: 2.05rem;
 	line-height: 1.3333;
 	margin-bottom: 1.3333em;
 }
@@ -3093,9 +3093,9 @@ p > video {
 	}
 
 	.site-title {
-		font-size: 29px;
-		font-size: 2.9rem;
-		line-height: 1.2069;
+		font-size: 24.5px;
+		font-size: 2.45rem;
+		line-height: 2.3;
 	}
 
 	.custom-logo {
@@ -3264,10 +3264,10 @@ p > video {
 
 	.entry-title,
 	.widecolumn h2 {
-		font-size: 35px;
-		font-size: 3.5rem;
-		line-height: 1.2;
-		margin-bottom: 1.2em;
+		font-size: 22.5px;
+		font-size: 2.25rem;
+		line-height: 1.4;
+		margin-bottom: 1.4em;
 	}
 
 	.entry-content h1,
@@ -3396,8 +3396,8 @@ p > video {
 	.format-link .entry-title,
 	.format-audio .entry-title,
 	.format-chat .entry-title {
-		font-size: 20px;
-		font-size: 2rem;
+		font-size: 22.5px;
+		font-size: 2.25rem;
 		line-height: 1.4;
 		margin-bottom: 1.4em;
 	}
@@ -3723,9 +3723,9 @@ p > video {
 	}
 
 	.site-title {
-		font-size: 32px;
-		font-size: 3.2rem;
-		line-height: 1.25;
+		font-size: 26.5px;
+		font-size: 2.65rem;
+		line-height: 2.4;
 	}
 
 	.custom-logo {
@@ -3836,10 +3836,10 @@ p > video {
 
 	.entry-title,
 	.widecolumn h2 {
-		font-size: 39px;
-		font-size: 3.9rem;
-		line-height: 1.2308;
-		margin-bottom: 1.2308em;
+		font-size: 24.5px;
+		font-size: 2.45rem;
+		line-height: 1.4;
+		margin-bottom: 1.4em;
 	}
 
 	.entry-content h1,
@@ -3963,10 +3963,10 @@ p > video {
 	.format-link .entry-title,
 	.format-audio .entry-title,
 	.format-chat .entry-title {
-		font-size: 22px;
-		font-size: 2.2rem;
-		line-height: 1.4545;
-		margin-bottom: 1.4545em;
+		font-size: 24.5px;
+		font-size: 2.45rem;
+		line-height: 1.4;
+		margin-bottom: 1.4em;
 	}
 
 	.format-link .entry-title a:after {
@@ -4502,10 +4502,10 @@ p > video {
 
 	.entry-title,
 	.widecolumn h2 {
-		font-size: 31px;
-		font-size: 3.1rem;
-		line-height: 1.1613;
-		margin-bottom: 1.1613em;
+		font-size: 20.5px;
+		font-size: 2.05rem;
+		line-height: 1.3333;
+		margin-bottom: 1.3333em;
 	}
 
 	.entry-content,
@@ -4652,8 +4652,8 @@ p > video {
 	.format-link .entry-title,
 	.format-audio .entry-title,
 	.format-chat .entry-title {
-		font-size: 18px;
-		font-size: 1.8rem;
+		font-size: 20.5px;
+		font-size: 2.05rem;
 		line-height: 1.3333;
 		margin-bottom: 1.3333em;
 	}
@@ -5088,10 +5088,10 @@ p > video {
 
 	.entry-title,
 	.widecolumn h2 {
-		font-size: 35px;
-		font-size: 3.5rem;
-		line-height: 1.2;
-		margin-bottom: 1.2em;
+		font-size: 24.5px;
+		font-size: 2.45rem;
+		line-height: 1.4;
+		margin-bottom: 1.4em;
 	}
 
 	.entry-content h1,
@@ -5215,8 +5215,8 @@ p > video {
 	.format-link .entry-title,
 	.format-audio .entry-title,
 	.format-chat .entry-title {
-		font-size: 20px;
-		font-size: 2rem;
+		font-size: 24.5px;
+		font-size: 2.45rem;
 		line-height: 1.4;
 		margin-bottom: 1.4em;
 	}
@@ -5641,10 +5641,10 @@ p > video {
 
 	.entry-title,
 	.widecolumn h2 {
-		font-size: 39px;
-		font-size: 3.9rem;
-		line-height: 1.2308;
-		margin-bottom: 1.2308em;
+		font-size: 26.5px;
+		font-size: 2.65rem;
+		line-height: 1.4545;
+		margin-bottom: 1.4545em;
 	}
 
 	.entry-content h1,
@@ -5768,8 +5768,8 @@ p > video {
 	.format-link .entry-title,
 	.format-audio .entry-title,
 	.format-chat .entry-title {
-		font-size: 22px;
-		font-size: 2.2rem;
+		font-size: 26.5px;
+		font-size: 2.65rem;
 		line-height: 1.4545;
 		margin-bottom: 1.4545em;
 	}
