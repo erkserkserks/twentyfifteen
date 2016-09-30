@@ -3962,12 +3962,11 @@ p > video {
 	.format-status .entry-title,
 	.format-link .entry-title,
 	.format-audio .entry-title,
-	.format-chat .entry-title,
-	.widecolumn h2 {
-		font-size: 39px;
-		font-size: 3.9rem;
-		line-height: 1.2308;
-		margin-bottom: 1.2308em;
+	.format-chat .entry-title {
+		font-size: 22px;
+		font-size: 2.2rem;
+		line-height: 1.4545;
+		margin-bottom: 1.4545em;
 	}
 
 	.format-link .entry-title a:after {
@@ -5768,12 +5767,11 @@ p > video {
 	.format-status .entry-title,
 	.format-link .entry-title,
 	.format-audio .entry-title,
-	.format-chat .entry-title,
-	.widecolumn h2 {
-		font-size: 39px;
-		font-size: 3.9rem;
-		line-height: 1.2308;
-		margin-bottom: 1.2308em;
+	.format-chat .entry-title {
+		font-size: 22px;
+		font-size: 2.2rem;
+		line-height: 1.4545;
+		margin-bottom: 1.4545em;
 	}
 
 	.format-link .entry-title a:after {
