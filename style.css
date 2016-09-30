@@ -1312,8 +1312,9 @@ img.aligncenter {
 	font-size: 22px;
 	font-size: 2.2rem;
 	font-weight: 700;
-	line-height: 1.3636;
+	line-height: 2.05;
 	margin-bottom: 0;
+	text-align: center;
 }
 
 .custom-logo {
@@ -2727,7 +2728,7 @@ p > video {
 	.site-title {
 		font-size: 22px;
 		font-size: 2.2rem;
-		line-height: 1.0909;
+		line-height: 2.05;
 	}
 
 	.site-description {
